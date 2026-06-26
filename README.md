@@ -76,7 +76,9 @@ Brazilian jiu-jitsu, lifting, chess, guitar and piano, and a soft spot for retro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcrowleynetwork/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://mikecrowley2026.substack.com/)
+
+<!--
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcrowley1121&show_icons=true)
+-->
 
-
-> 💼 If you've got a project you want me to take a look at, give me a shout on LinkedIn.
+💼 If you've got a project you want me to take a look at, give me a shout on LinkedIn.
