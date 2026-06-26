@@ -37,9 +37,10 @@ I like to automate things and make people's lives easier.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Languages & shell**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -56,13 +57,13 @@ A lot of my Kubernetes and self-hosting experience is hands-on in my own homelab
 
 ### 📚 Currently learning
 
-Working through **KubeCraft** to deepen my Kubernetes and Linux fundamentals.
+Working through **KubeCraft** to deepen my Kubernetes and Linux skillset.
 
 ---
 
 ### 🌱 Away from the keyboard
 
-Brazilian jiu-jitsu, lifting, chess, guitar and piano, and a soft spot for retro gaming (Phantasy Star Online EP 1 and 2, Sonic Adventure 2 Battle, and Legend of Zelda: Ocarina of Time).
+Spending time with family, brazilian jiu-jitsu and lifting, chess, fumbling around with some instruments, and a soft spot for some older video games (Phantasy Star Online EP 1 and 2, Sonic Adventure 2 Battle, and Legend of Zelda: Ocarina of Time).
 
 ---
 
